@@ -3,7 +3,7 @@
 nombre = "christian"
 print (nombre)
 
-nombre2 = "javier"
+nombre2 = "pepe"
 
 print(nombre2)
 
